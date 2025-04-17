@@ -25,10 +25,11 @@ docker version
 newgrp docker
 
 檔案相關截圖
-![image](https://github.com/user-attachments/assets/e27efc97-cb7b-4566-ac8e-fcfae12c546f)
+
 ![image](https://github.com/user-attachments/assets/828ba338-4ace-4853-9d0b-ab94696b8fa5)
 ![image](https://github.com/user-attachments/assets/b5bd82d1-4f72-4b4e-86e7-14f23d0aa4e7)
-![image](https://github.com/user-attachments/assets/0b03b3bb-525a-4da1-873a-89481330b044)
+![image](https://github.com/user-attachments/assets/36196052-94e2-4d77-b232-bf93530b1a07)
+![image](https://github.com/user-attachments/assets/b6dda18e-a8ad-49b8-9212-81e533ffb5e8)
 
 
 下載Kubectl 與 minikube
