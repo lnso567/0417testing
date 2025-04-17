@@ -35,7 +35,12 @@ newgrp docker
 ![image](https://github.com/user-attachments/assets/6c10d918-8f0d-4991-89e9-57fd0e75b6e0)
 ![image](https://github.com/user-attachments/assets/f2011cca-a362-439f-90ab-63bd0f9ac29d)
 
+![image](https://github.com/user-attachments/assets/345406b6-5599-432a-accb-fab72888044c)
+推到dockerhub 上
 
+![image](https://github.com/user-attachments/assets/c729969f-a08f-49b5-a4c5-0f49121489ee)
+
+![image](https://github.com/user-attachments/assets/64d2b29e-626d-46f5-b616-beca74f3f30a)
 
 
 
