@@ -28,8 +28,9 @@ newgrp docker
 
 ![image](https://github.com/user-attachments/assets/828ba338-4ace-4853-9d0b-ab94696b8fa5)
 ![image](https://github.com/user-attachments/assets/b5bd82d1-4f72-4b4e-86e7-14f23d0aa4e7)
-![image](https://github.com/user-attachments/assets/36196052-94e2-4d77-b232-bf93530b1a07)
-![image](https://github.com/user-attachments/assets/b6dda18e-a8ad-49b8-9212-81e533ffb5e8)
+![image](https://github.com/user-attachments/assets/b80ddf67-9b0f-4122-a40e-b78d7f4e4f6f)
+![image](https://github.com/user-attachments/assets/7549af26-a252-4e04-878d-dea30192cb0c)
+
 
 
 下載Kubectl 與 minikube
